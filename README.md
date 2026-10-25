@@ -1,16 +1,13 @@
-## Hi there 👋
+# ようこそ！！
+こんにちは。さんどるぴんです。さまざまなAndroidアプリをClaudeと作ります。細かいところまでこだわり、誰が使っても使いやすいアプリを目指しています。
 
-<!--
-**sandolpin/sandolpin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## マイプロフィール
+・高校3年生
+・群馬県在住
+・いつもはAffinityでデザインをしたり、動画を作ったり、絵を描いたりなんだりしています。
 
-Here are some ideas to get you started:
+## 代表作アプリ
+[さんとぴメディアコントロール](https://github.com/sandolpin/SantopimediaControl3.5).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[ギャラリー](https://github.com/sandolpin/SantopimediaControl3.5).
