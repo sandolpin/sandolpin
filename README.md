@@ -8,7 +8,7 @@
 
 ## 代表作アプリ
 [さんとぴメディアコントロール](https://github.com/sandolpin/SantopimediaControl3.5).
-https://github.com/sandolpin/sandolpin/blob/main/santopimedia.jpg
+<img width="3840" height="2160" alt="Image" src="https://github.com/user-attachments/assets/f23f1d1f-a578-412c-b630-ce4748f56c1e" />
 
-[ギャラリー](https://github.com/sandolpin/SantopimediaControl3.5).
-https://github.com/sandolpin/sandolpin/blob/main/gallery.jpg
+[ギャラリー](https://github.com/sandolpin/Gallery).
+<img width="3840" height="2160" alt="Image" src="https://github.com/user-attachments/assets/14a6f663-d86b-4800-ad97-2ee5896b1f94" />
