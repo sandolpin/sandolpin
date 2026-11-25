@@ -12,3 +12,8 @@
 
 ### [ギャラリー](https://github.com/sandolpin/Gallery)
 <img width="3840" height="2160" alt="Image" src="https://github.com/user-attachments/assets/14a6f663-d86b-4800-ad97-2ee5896b1f94" />
+
+## Contribution Snake
+準備中
+</div>
+![Visitor Count](https://komarev.com/ghpvc/?username=sandolpin&label=Visitor+Count&color=58A6FF&style=for-the-badge)
