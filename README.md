@@ -15,5 +15,7 @@
 
 ## Contribution Snake
 準備中
-</div>
+
+---
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=sandolpin&label=Visitor+Count&color=58A6FF&style=for-the-badge)
