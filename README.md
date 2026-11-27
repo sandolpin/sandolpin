@@ -6,18 +6,50 @@
 - 群馬県在住
 - いつもはAffinityでデザインをしたり、動画を作ったり、絵を描いたりなんだりしています。
 
-## 代表作アプリ
-### [さんとぴメディアコントロール](https://github.com/sandolpin/SantopimediaControl3.5)
-<img width="3840" height="2160" alt="Image" src="https://github.com/user-attachments/assets/f23f1d1f-a578-412c-b630-ce4748f56c1e" />
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### [ギャラリー](https://github.com/sandolpin/Gallery)
-<img width="3840" height="2160" alt="Image" src="https://github.com/user-attachments/assets/14a6f663-d86b-4800-ad97-2ee5896b1f94" />
+**[さんとぴメディアコントロール](https://github.com/sandolpin/SantopimediaControl3.5)**
+
+たくさんの機能がつまったメディアコントロール。
+
+<img src="./assets/santopimedia.jpg" alt="詳細はリンクへ" width="100%"/>
+
+</td>
+<td width="50%" valign="top">
+
+**[ギャラリー](https://github.com/sandolpin/Gallery)**
+
+検索方法を、変える。
+
+<img src="./assets/gallery.jpg" alt="詳細はリンクへ" width="100%"/>
+
+</td>
+
+
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+**[sdlrcメーカー](https://github.com/sandolpin/sdlrcmaker2)**
+
+直感的な操作の歌詞づくり。
+
+<img src="./assets/santopimedia.jpg" alt="詳細はリンクへ" width="100%"/>
+
+</td>
+
+</tr>
+</table>
+
+ほかのアプリははリポジトリから
 
 ## Contribution Snake
 準備中
 
 ---
 
-## ビジターカウント
-
+### ビジターカウント
 ![Visitor Count](https://komarev.com/ghpvc/?username=sandolpin&label=Visitor+Count&color=58A6FF&style=for-the-badge)
