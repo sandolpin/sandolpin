@@ -37,7 +37,7 @@
 
 直感的な操作の歌詞づくり。
 
-<img src="./assets/santopimedia.jpg" alt="詳細はリンクへ" width="100%"/>
+<img src="./assets/sdlrc.jpg" alt="詳細はリンクへ" width="100%"/>
 
 </td>
 
